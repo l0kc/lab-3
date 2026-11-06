@@ -1,4 +1,5 @@
-# lab-3
-text
-Participant l0kc: Cokc Glokovich
-Participant l0kc: hold my beer
+# Team project
+Participant крч: я устал
+Participant пусть: так будет
+Participant надоело: second line
+Participant 2: second line
