@@ -1,3 +1,3 @@
-# lab-3
-text
+# Team project
+Participant l0kc: Cokc Glokovich
 Participant brukbon: V Tokio Utro
